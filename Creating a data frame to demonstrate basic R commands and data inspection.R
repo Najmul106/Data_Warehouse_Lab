@@ -1,5 +1,3 @@
-# Practical 1: Import data set to R-Studio and demonstration of R software
-# Creating a data frame to demonstrate basic R commands and data inspection
 student <- data.frame(
   Name = c("Ram", "Riya", "Amit", "Priya"),
   Age = c(20, 21, 22, 20),
