@@ -1,4 +1,4 @@
-
+#Demonstrate pre-processing on some data set p6
 data(iris)
 head(iris)
 str(iris)
